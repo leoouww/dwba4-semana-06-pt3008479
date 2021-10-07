@@ -5,14 +5,14 @@ div#conteudo {
 		float: right;		
 		}
 		
-img {
+/*img {
   border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
+*/
 figure {
     display: inline-block;
     border: 0px dotted gray;
